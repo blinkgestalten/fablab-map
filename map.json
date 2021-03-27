@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/blinkgestalten\/fablab-map\/blob\/master\/websites\/livestream.html"
+                 "value":"https:\/\/blinkgestalten.github.io\/fablab-map\/websites\/livestream.html"
                 }],
          "type":"tilelayer",
          "visible":true,
